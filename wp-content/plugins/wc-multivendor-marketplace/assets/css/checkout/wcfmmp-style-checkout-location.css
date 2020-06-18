@@ -1,0 +1,11 @@
+#wcfmmp-user-locaton-map {
+	width: 100%; 
+	height: 300px; 
+	border: 1px solid #DFDFDF; 
+}
+
+@media only screen and (max-width: 640px) {
+	#wcfmmp-user-locaton-map { 
+		width: 325px;
+	}
+}
